@@ -1,0 +1,6 @@
+C:\Users\Jesse Freeman\Desktop\ExerciseFiles\FileSystemTest\bin\Debug\FileSystemTest.exe.config
+C:\Users\Jesse Freeman\Desktop\ExerciseFiles\FileSystemTest\bin\Debug\FileSystemTest.exe
+C:\Users\Jesse Freeman\Desktop\ExerciseFiles\FileSystemTest\bin\Debug\FileSystemTest.pdb
+C:\Users\Jesse Freeman\Desktop\ExerciseFiles\FileSystemTest\obj\Debug\FileSystemTest.csprojResolveAssemblyReference.cache
+C:\Users\Jesse Freeman\Desktop\ExerciseFiles\FileSystemTest\obj\Debug\FileSystemTest.exe
+C:\Users\Jesse Freeman\Desktop\ExerciseFiles\FileSystemTest\obj\Debug\FileSystemTest.pdb

@@ -1,0 +1,4 @@
+Workspace\
+Workspace\Archive\
+Workspace\Tmp\
+Workspace\Tmp\AppData\
